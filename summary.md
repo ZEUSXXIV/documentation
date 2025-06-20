@@ -1,4 +1,4 @@
-# SQL Dependency Tracker: Comprehensive Overview
+# SQL Dependency Tracker: Functional Document
 
 ## Visualizing and Navigating Database Structures
 
